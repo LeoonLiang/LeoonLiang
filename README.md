@@ -7,13 +7,14 @@ I'm Leoon, a 27 years old web developer from China.
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript,
+- 👨‍💻 TypeScript, JavaScript
 - ⚙️ Vue, React
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
+- ✍️ Photography, Photoshop
 + a lot more :D
 
 ## Contact
-- [leoon.cn](https://leoon.cn)
-- [Resume](https://resume.leoon.cn)
+- [My Blog](https://leoon.cn)
+- [My Resume](https://resume.leoon.cn)
 - [@Leoonliang](https://unsplash.com/@leoonliang) on Unsplash
