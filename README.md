@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  <img width="50" src="https://raw.githubusercontent.com/leoonliang/leoonliang/main/logo.png" alt="leoon logo" /> 
+</h1>
 
-<!--
-**LeoonLiang/LeoonLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Leoon, a 27 years old web developer from China.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript,
+- ⚙️ Vue, React
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [leoon.cn](https://leoon.cn)
+- [Resume](https://resume.leoon.cn)
+- [@Leoonliang](https://twitter.com/martonlederer) on Unsplash
