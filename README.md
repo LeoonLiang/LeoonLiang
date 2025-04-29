@@ -18,3 +18,4 @@ I'm Leoon, a 27 years old web developer from China.
 - [My Blog](https://leoon.cn)
 - [My Resume](https://resume.leoon.cn)
 - [@Leoonliang](https://unsplash.com/@leoonliang) on Unsplash
+- [Email](mailto:DSleoon@gmail.com)
