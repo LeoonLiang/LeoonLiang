@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img width="50" src="https://raw.githubusercontent.com/leoonliang/leoonliang/main/logo.png" alt="leoon logo" /> 
 </h1>
 
